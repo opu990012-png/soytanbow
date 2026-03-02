@@ -159,7 +159,7 @@ border-radius:10px;
 
 <!-- Background Music -->
 <audio id="bgMusic" loop>
-<source src="love.mp3" type="audio/mpeg">
+<source src="love" type="audio/mpeg">
 </audio>
 
 <!-- PAGE 1 -->
